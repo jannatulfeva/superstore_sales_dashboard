@@ -66,7 +66,13 @@ Slicers
 
 Superstore Sales Dataset used for analysis
 
+# Author & Contact
 
+Jannatul Ferdaus Eva
+
+Data Analyst
+
+📧 Email: jannateva76@gmail.com
 
 
 
