@@ -56,6 +56,9 @@ Slicers
 
 # Dashboard Preview
 
+<img width="1435" height="767" alt="Screenshot 2026-03-18 161249" src="https://github.com/user-attachments/assets/52101cdd-e7dd-4c06-b0ea-9671e24bcfd1" />
+
+
 # How to Use
 
 - Download the Excel file from this repository
