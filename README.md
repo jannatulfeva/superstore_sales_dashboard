@@ -56,7 +56,7 @@ Slicers
 
 # Dashboard Preview
 
-<img width="1435" height="767" alt="Screenshot 2026-03-18 161249" src="https://github.com/user-attachments/assets/52101cdd-e7dd-4c06-b0ea-9671e24bcfd1" />
+<img width="1436" height="733" alt="Screenshot 2026-03-18 161558" src="https://github.com/user-attachments/assets/362848f9-d1b7-4cc2-ac4a-6f826e9730e4" />
 
 
 # How to Use
