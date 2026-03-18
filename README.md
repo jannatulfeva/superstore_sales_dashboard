@@ -46,13 +46,25 @@ Charts
 
 Slicers
 
+# Key Insights
 
+- Sales and profit can be compared across different categories
 
+- Performance varies between different customer segments
 
+- Sales show variation over time based on the dataset
 
+# Dashboard Preview
 
+# How to Use
 
+- Download the Excel file from this repository
 
+- Open it in Microsoft Excel
+
+# Dataset
+
+Superstore Sales Dataset used for analysis
 
 
 
